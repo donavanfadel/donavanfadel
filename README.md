@@ -14,6 +14,11 @@
 
 ---
 
+### 🌐 Portfólio
+[![Sistema Votação CIPA](https://img.shields.io/badge/Sistema_Votação_CIPA-green?style=flat-square)](https://github.com/donavanfadel/SistemaVotacaoCIPA)
+
+---
+
 ### 🚀 Projetos & Interesses Atuais
 
 - 🧩 Desenvolvimento e manutenção de sistemas em ASP.NET Core MVC
@@ -37,6 +42,5 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/donavanfadel)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/DonavanFadel)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/DonavanFadel)
-
 
 <p align="center"><i>"A felicidade da sua vida depende da qualidade dos seus pensamentos." — Marco Aurélio</i></p>
