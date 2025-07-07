@@ -15,7 +15,9 @@
 ---
 
 ### 🌐 Portfólio
-[![Sistema Votação CIPA](https://img.shields.io/badge/Sistema_Votação_CIPA-green?style=flat-square)](https://github.com/donavanfadel/SistemaVotacaoCIPA)
+[![Votação CIPA](https://img.shields.io/badge/Sistema_Votação_CIPA-green?style=flat-square)](https://github.com/donavanfadel/SistemaVotacaoCIPA)
+[![Ordem de Serviço](https://img.shields.io/badge/Sistema_Ordem_de_Servico-blue?style=flat-square)](https://github.com/donavanfadel/ordemdeservico)
+
 
 ---
 
